@@ -5,7 +5,6 @@ The following program is YouTube's API for generating videos based on the users 
 Pylot MVC is a lightweight MVC framework built in Python leveraging flask.
 
 # Installation
-
 First make sure you have pip installed. If you don't have it installed there are great instructions here: https://pip.pypa.io/en/latest/installing.html
 
 Next install virtualenv
